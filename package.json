@@ -1,0 +1,19 @@
+{
+  "name": "vucko",
+  "version": "1.0.0",
+  "description": "Package for vuckos.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testiramsve/vucko.git"
+  },
+  "author": "B-loved Overlord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testiramsve/vucko/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/testiramsve/vucko#readme",
+  "main": "index.js"
+}
